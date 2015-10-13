@@ -1,0 +1,41 @@
+c:\users\kravchenko\documents\visual studio 2012\Projects\SI\SI\bin\Debug\SI.exe.config
+C:\Users\Kravchenko\documents\visual studio 2012\Projects\SI\SI\bin\Debug\SI.exe
+C:\Users\Kravchenko\documents\visual studio 2012\Projects\SI\SI\bin\Debug\SI.pdb
+C:\Users\Kravchenko\documents\visual studio 2012\Projects\SI\SI\bin\Debug\SI.xml
+C:\Users\Kravchenko\documents\visual studio 2012\Projects\SI\SI\obj\Debug\SI.Resources.resources
+C:\Users\Kravchenko\documents\visual studio 2012\Projects\SI\SI\obj\Debug\SI.vbproj.GenerateResource.Cache
+C:\Users\Kravchenko\documents\visual studio 2012\Projects\SI\SI\obj\Debug\SI.exe
+C:\Users\Kravchenko\documents\visual studio 2012\Projects\SI\SI\obj\Debug\SI.xml
+C:\Users\Kravchenko\documents\visual studio 2012\Projects\SI\SI\obj\Debug\SI.pdb
+C:\Users\Kravchenko\Documents\Visual Studio 2012\Projects\SI\SI\obj\Debug\SI.Login.resources
+C:\Users\Kravchenko\Documents\Visual Studio 2012\Projects\SI\SI\obj\Debug\SI.vbprojResolveAssemblyReference.cache
+C:\Users\Kravchenko\Documents\Visual Studio 2012\Projects\SI\SI\obj\Debug\SI.FrmInventario.resources
+C:\Users\Kravchenko\Documents\Visual Studio 2012\Projects\SI\SI\bin\Debug\Base_De_Datos.dll
+C:\Users\Kravchenko\Documents\Visual Studio 2012\Projects\SI\SI\bin\Debug\Base_De_Datos.pdb
+C:\Users\Kravchenko\Documents\Visual Studio 2012\Projects\SI\SI\bin\Debug\Base_De_Datos.xml
+C:\Users\Kravchenko\Documents\Visual Studio 2012\Projects\SI\SI\obj\Debug\SI.FrmUsuario.resources
+C:\Users\Kravchenko\Documents\Visual Studio 2012\Projects\SI\SI\obj\Debug\SI.FrmBuscar.resources
+C:\Users\Kravchenko\documents\visual studio 2012\Projects\SI\SI\obj\Debug\SI.FrmNuevoUsuario.resources
+C:\Users\Kravchenko\documents\visual studio 2012\Projects\SI\SI\obj\Debug\SI.FrmPermisologia.resources
+C:\COMPARTIR\TESIS ALI\SI\SI\bin\Debug\SI.exe.config
+C:\COMPARTIR\TESIS ALI\SI\SI\obj\Debug\SI.exe
+C:\COMPARTIR\TESIS ALI\SI\SI\obj\Debug\SI.xml
+C:\COMPARTIR\TESIS ALI\SI\SI\obj\Debug\SI.pdb
+C:\COMPARTIR\TESIS ALI\SI\SI\bin\Debug\SI.exe
+C:\COMPARTIR\TESIS ALI\SI\SI\bin\Debug\SI.pdb
+C:\COMPARTIR\TESIS ALI\SI\SI\bin\Debug\SI.xml
+C:\COMPARTIR\TESIS ALI\SI\SI\bin\Debug\Base_De_Datos.dll
+C:\COMPARTIR\TESIS ALI\SI\SI\bin\Debug\Base_De_Datos.pdb
+C:\COMPARTIR\TESIS ALI\SI\SI\bin\Debug\Base_De_Datos.xml
+C:\COMPARTIR\TESIS ALI\SI\SI\obj\Debug\SI.vbprojResolveAssemblyReference.cache
+C:\COMPARTIR\TESIS ALI\SI\SI\obj\Debug\SI.FrmBuscar.resources
+C:\COMPARTIR\TESIS ALI\SI\SI\obj\Debug\SI.FrmNuevoUsuario.resources
+C:\COMPARTIR\TESIS ALI\SI\SI\obj\Debug\SI.FrmPermisologia.resources
+C:\COMPARTIR\TESIS ALI\SI\SI\obj\Debug\SI.FrmUsuario.resources
+C:\COMPARTIR\TESIS ALI\SI\SI\obj\Debug\SI.Login.resources
+C:\COMPARTIR\TESIS ALI\SI\SI\obj\Debug\SI.Resources.resources
+C:\COMPARTIR\TESIS ALI\SI\SI\obj\Debug\SI.FrmInventario.resources
+C:\COMPARTIR\TESIS ALI\SI\SI\obj\Debug\SI.vbproj.GenerateResource.Cache
+C:\Users\Kravchenko\Documents\Visual Studio 2012\Projects\SI\SI\obj\Debug\SI.FrmAlmacen.resources
+C:\Users\Kravchenko\Documents\Visual Studio 2012\Projects\SI\SI\obj\Debug\SI.FrmProducto.resources
+C:\Users\Kravchenko\Documents\Visual Studio 2012\Projects\SI\SI\obj\Debug\SI.FrmCliente.resources

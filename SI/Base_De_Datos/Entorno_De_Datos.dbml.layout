@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Entorno_De_Datos">
+  <DataContextMoniker Name="/Entorno_De_DatosDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e485f25c-801b-426c-80b6-7e4bfa200fd5" isExpanded="false" absoluteBounds="3, 1.625, 2, 0.45">
+      <DataClassMoniker Name="/Entorno_De_DatosDataContext/Rol" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a495e904-4f41-4a2c-bdf1-a441f303e328" absoluteBounds="3.015, 2.085, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="228863e6-1efd-4ea3-a9f2-9269bf809433" isExpanded="false" absoluteBounds="0.5, 2.875, 2, 0.45">
+      <DataClassMoniker Name="/Entorno_De_DatosDataContext/Pregunta_Seguridad" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3d4dc240-18a1-4195-a627-faf5d6d07a18" absoluteBounds="0.51500000000000012, 3.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7362770d-1cd4-43d6-9255-ce7bd42ff41e" isExpanded="false" absoluteBounds="3, 2.875, 2, 0.45">
+      <DataClassMoniker Name="/Entorno_De_DatosDataContext/Contrasena_Usuario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="10fe2295-6ea0-43cf-949e-2ca9ae176d0f" absoluteBounds="3.0149999999999997, 3.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="31f2779e-f719-4468-8c2f-5e5167ff993b" isExpanded="false" absoluteBounds="0.5, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/Entorno_De_DatosDataContext/Vw_Usuario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="49f68146-9da2-4cd6-a08e-d8be9bc80752" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 3.1339111328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="77204353-f887-496f-9b22-6cdbadc4874a" isExpanded="false" absoluteBounds="0.5, 1.125, 2, 0.45">
+      <DataClassMoniker Name="/Entorno_De_DatosDataContext/Vw_Maestro_Usuario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="61b1a08d-41e9-4523-85ee-0290ec06c615" absoluteBounds="0.51500000000000012, 1.585, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="60a9068e-9215-4323-a816-fcfdb3a3f93a" isExpanded="false" absoluteBounds="3, 1, 2, 0.45">
+      <DataClassMoniker Name="/Entorno_De_DatosDataContext/Permisologia" />
+      <nestedChildShapes>
+        <elementListCompartment Id="628b57ea-7ba2-4ca0-b616-91e1bf6846a4" absoluteBounds="3.015, 1.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="509e5b1e-dddf-4471-9f87-3de18b0aec49" isExpanded="false" absoluteBounds="3, 3.5, 2, 0.45">
+      <DataClassMoniker Name="/Entorno_De_DatosDataContext/Vw_Permiso" />
+      <nestedChildShapes>
+        <elementListCompartment Id="814b970b-df5c-4df5-8d49-14794e68028c" absoluteBounds="3.0149999999999997, 3.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6a90be49-e0a1-4358-bff6-1d931d0de282" isExpanded="false" absoluteBounds="5.25, 1, 2, 0.45">
+      <DataClassMoniker Name="/Entorno_De_DatosDataContext/Usuario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e4f7df8a-4c09-43e7-8a89-b07f1548916a" absoluteBounds="5.265, 1.46, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="43e298a3-0a30-48b9-b835-eb7da8d5d74d" isExpanded="false" absoluteBounds="3, 0.5, 2, 0.45">
+      <DataClassMoniker Name="/Entorno_De_DatosDataContext/Rol_Permisologia" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e97e9c43-b00e-49bb-9bb2-78d06c4941c9" absoluteBounds="3.015, 0.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="eafdb1d6-e4b5-4ecd-93de-fb032e2cd6d2" isExpanded="false" absoluteBounds="5.25, 2.875, 2, 0.45">
+      <DataClassMoniker Name="/Entorno_De_DatosDataContext/Cliente" />
+      <nestedChildShapes>
+        <elementListCompartment Id="51c2ab6e-0b22-4124-bc80-db26d4523fa0" absoluteBounds="5.265, 3.335, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ab45c3aa-cf47-4d6a-898c-87ada4783871" isExpanded="false" absoluteBounds="5.25, 1.625, 2, 0.45">
+      <DataClassMoniker Name="/Entorno_De_DatosDataContext/Almacen" />
+      <nestedChildShapes>
+        <elementListCompartment Id="409a4654-d530-451f-8f02-55aa3bdb6475" absoluteBounds="5.265, 2.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9e764e4d-a8cb-45f3-97d9-909c70b02842" isExpanded="false" absoluteBounds="5.25, 2.25, 2, 0.45">
+      <DataClassMoniker Name="/Entorno_De_DatosDataContext/Producto" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f50d9426-5971-4ac6-8633-6c653de7ac2d" absoluteBounds="5.265, 2.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="13deb7a7-4ae9-4b55-b5ba-7b2306975177" isExpanded="false" absoluteBounds="0.5, 1.75, 2, 0.45">
+      <DataClassMoniker Name="/Entorno_De_DatosDataContext/Vw_Producto_Almacen" />
+      <nestedChildShapes>
+        <elementListCompartment Id="693b4461-61dd-4c7e-a7a4-27812ecaafee" absoluteBounds="0.51500000000000012, 2.21, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9113ddcd-546a-4310-80e5-a1d69631f5e7" isExpanded="false" absoluteBounds="5.25, 3.5, 2, 0.45">
+      <DataClassMoniker Name="/Entorno_De_DatosDataContext/Vw_Cliente" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b2ea7ad0-28ce-47b8-84df-e5903eeedefa" absoluteBounds="5.265, 3.96, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
